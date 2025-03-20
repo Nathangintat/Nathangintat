@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathangintat&label=Profile%20views&color=0e75b6&style=flat" alt="nathangintat" /> </p>
 
-<img align="right" <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">">
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">>
+
 - 🌱 I’m currently learning **Golang Microservice**
 
 - 📫 How to reach me **Nathangintat@gmail.com**

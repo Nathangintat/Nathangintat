@@ -5,8 +5,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">>
 
-- 🌱 I’m currently learning **Golang Microservice**
-
 - 📫 How to reach me **Nathangintat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
